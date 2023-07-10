@@ -6,7 +6,8 @@
 
 - 💬 Ask me anything
 
-- 📫 Feel free to contact me **paulsoumyadeep2019@gmail.com, [Instagram](https://www.instagram.com/soumyadeep_paul196/), [Discord](https://discord.com/users/921646960946073600) and [LinkedIn](https://www.linkedin.com/in/soumyadeep-paul-8925a4280/)**
+- 📫 Feel free to contact me **tanishverma012@gmail.com, [Instagram](https://www.instagram.com/tanish__verma012/),  and [LinkedIn](https://www.linkedin.com/in/tanish-verma012
+/)**
 
 
 <h3 align="left">Languages and Tools:</h3>
