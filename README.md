@@ -1,4 +1,4 @@
-![Greeting](Images/Heading.png)
+![Greeting](Images/heading.png)
 
 - 🏛️ Pre-final year at IIT Guwahati Computer Science and Engineering
 
