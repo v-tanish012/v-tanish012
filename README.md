@@ -1,6 +1,6 @@
 ![Greeting](Images/heading.png)
 
-- 🏛️ Pre-final year at IIT Guwahati Computer Science and Engineering
+- 🏛️ Final year at IIT Guwahati Computer Science and Engineering
 
 - 🌱 I’m currently learning **Competitive programming, Django and Nodejs**
 
